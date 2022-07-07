@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("MaterialSkin")]
-[assembly: AssemblyDescription("Google's Material Design on your windows forms")]
+[assembly: AssemblyDescription("Google's Material Design on your windows forms, modified by YidaozhanYa, removed bundled Roboto fonts")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("MaterialSkin")]
-[assembly: AssemblyCopyright("Copyright Leonardo C Bottaro © 2021")]
+[assembly: AssemblyCopyright("Copyright Leonardo C Bottaro © 2021, YidaozhanYa 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -34,4 +34,4 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("2.3.1.0")]
 [assembly: AssemblyFileVersion("2.3.1.0")]
-[assembly: NeutralResourcesLanguage("en-US")]
+[assembly: NeutralResourcesLanguage("zh-Hans")]
